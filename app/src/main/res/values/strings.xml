@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Delta App 2</string>
+    <string name="dispinfo">Press the Buttons to move the ball around.\n\nUpon pressing the speak button, please wait till you see a pop up.\n\nActions that are valid are:\n\n1. make it a "square".\n\n2. make it a "circle".\n\n3. make it "grow".\n\n4. make it "shrink".\n\nThanks a lot. PLEASE NOTE: INTERNET CONNECTION MUST \nBE PROVIDED FOR THE SPEECH RECOGNITION TO WORK\n\n\n Made By: Vignesh Ramakrishnan\n GitHub: www.github.com/hacker404 Feedback:vicky3008@gmail.com</string>
+</resources>
